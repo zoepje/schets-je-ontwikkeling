@@ -29,21 +29,21 @@ Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw
 
 ### 1. Verzamelen van informatie voor jouw praatplaat
 
-Wat kan er allemaal in jouw praatplaat komen te staan?
+>Wat kan er allemaal in jouw praatplaat komen te staan?
 
-Wat ging er goed?
+>Wat ging er goed?
 
-Wat ging er minder goed?
+>Wat ging er minder goed?
 
-Wat wil je komende tijd graag leren?
+>Wat wil je komende tijd graag leren?
 
-Waar wil je aan het eind van semester 1 zijn?
+>Waar wil je aan het eind van semester 1 zijn?
 
-Waar wil je aan het eind van semester 2 zijn?
+>Waar wil je aan het eind van semester 2 zijn?
 
-Wat zijn mogelijke obstakels (onderwerpen die je lastig lijken, je drukke bijbaan?)
+>Wat zijn mogelijke obstakels (onderwerpen die je lastig lijken, je drukke bijbaan?)
 
-Waar liggen kansen, waar heb je zin in?
+>Waar liggen kansen, waar heb je zin in?
 
 Schrijf en/of teken deze uitgangspunten op post-its.
 
