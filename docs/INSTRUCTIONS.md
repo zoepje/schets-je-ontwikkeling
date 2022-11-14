@@ -25,7 +25,7 @@ Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw
 1. [Verzamelen van informatie voor jouw praatplaat](#1-verzamelen-van-informatie-voor-jouw-praatplaat)
 2. [Structureren](#2-structureren)
 3. [Meerdere ideeën schetsen (divergeren)](#3-meerdere-ideeën-schetsen-divergeren)
-4. [Een idee uitwerken (convergeren)](url)
+4. [Een idee uitwerken (convergeren)](#4-een-idee-uitwerken-convergeren)
 
 ### 1. Verzamelen van informatie voor jouw praatplaat
 
