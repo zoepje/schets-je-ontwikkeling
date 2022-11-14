@@ -29,9 +29,9 @@ Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw
 
 ### 1. Verzamelen van informatie voor jouw praatplaat
 
->Wat kan er allemaal in jouw praatplaat komen te staan?
+- Wat kan er allemaal in jouw praatplaat komen te staan?
 
->Wat ging er goed?
+- Wat ging er goed?
 
 >Wat ging er minder goed?
 
