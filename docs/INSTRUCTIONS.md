@@ -24,7 +24,7 @@ Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw
 
 1. [Verzamelen van informatie voor jouw praatplaat](#1-verzamelen-van-informatie-voor-jouw-praatplaat)
 2. [Structureren](#2-structureren)
-3. [Meerdere ideeën schetsen (divergeren)](url)
+3. [Meerdere ideeën schetsen (divergeren)](#3-meerdere-ideeën-schetsen-divergeren)
 4. [Een idee uitwerken (convergeren)](url)
 
 ### 1. Verzamelen van informatie voor jouw praatplaat
@@ -80,10 +80,6 @@ Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoo
 <img src="https://user-images.githubusercontent.com/55133339/200644436-c1af45a0-a2d2-439e-990b-13c2186c2940.jpg" width=40%>
 <img src="https://user-images.githubusercontent.com/55133339/200644442-83c4311d-fd56-44d5-b2cb-7eea89ab311a.jpg" width=40%>
 <img src="https://user-images.githubusercontent.com/55133339/200650123-ce8e0927-831f-4bef-a00b-92605576c556.jpg" width=40%>
-
-
-
-
 
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
 
