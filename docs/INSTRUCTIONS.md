@@ -1,14 +1,14 @@
 
-# Look and feel - Schets je ontwikkeling, deel 2
+# All Human - Schets je ontwikkeling
 
 Maak een praatplaat waarin je jouw ontwikkeling van de afgelopen sprints en waar je naartoe wil in de komende sprints, laat zien.
 
 ## Context
 
-Deze deeltaak hoort bij sprint 4 Look and feel. 
+Deze deeltaak hoort bij sprint 3 All Human. 
 Dit is een deeltaak die je individueel uitvoert.
 
-In de workshop _Schets je ontwikkeling 2_ gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
+In de workshop _Schets je ontwikkeling _ gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
 
 
 ## Doel van deze opdracht
