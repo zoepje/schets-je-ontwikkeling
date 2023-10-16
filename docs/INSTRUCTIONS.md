@@ -79,7 +79,10 @@ Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoo
 <img src="https://user-images.githubusercontent.com/55133339/200644442-83c4311d-fd56-44d5-b2cb-7eea89ab311a.jpg" width=40%>
 <img src="https://user-images.githubusercontent.com/55133339/200650123-ce8e0927-831f-4bef-a00b-92605576c556.jpg" width=40%>
 
-Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen maar kan je helpen bij het richting geven en keuzes maken!
+Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen. 
+De plaat kan je richting geven en helpen bij het maken van keuzes!
+![image](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/27f252c4-deea-4f4a-b5ba-5574e9a8c433)
+
 
 ### 4. Een idee uitwerken (convergeren)
 
