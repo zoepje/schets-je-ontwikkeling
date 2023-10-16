@@ -81,7 +81,7 @@ Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoo
 
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen. 
 De plaat kan je richting geven en helpen bij het maken van keuzes!
-![image](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/27f252c4-deea-4f4a-b5ba-5574e9a8c433)
+
 
 
 ### 4. Een idee uitwerken (convergeren)
