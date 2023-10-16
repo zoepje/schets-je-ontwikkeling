@@ -8,7 +8,8 @@ Maak een praatplaat waarin je jouw ontwikkeling van de afgelopen sprints en waar
 Deze deeltaak hoort bij sprint 3 All Human. 
 Dit is een deeltaak die je individueel uitvoert.
 
-In de workshop _Schets je ontwikkeling _ gaan we gezamenlijk alle stappen langs en worden er visual thinking tips gegeven!
+In de workshop Schets je ontwikkeling  wordt uitgelegd wat visual thinking is en worden er tips gegeven!
+Daarna doorlopen we in elke squad de stappen.
 
 
 ## Doel van deze opdracht
@@ -32,7 +33,9 @@ Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw
 Wat kan er allemaal in jouw praatplaat komen te staan?
 
 - Wat ging er goed?
+- Voor welke indicatoren heb je echt goede bewijslast?
 - Wat ging er minder goed?
+- Voor welke indicatoren heb je minder goede bewijslast?
 - Wat wil je komende tijd graag leren?
 - Waar wil je aan het eind van semester 1 zijn?
 - Waar wil je aan het eind van semester 2 zijn?
