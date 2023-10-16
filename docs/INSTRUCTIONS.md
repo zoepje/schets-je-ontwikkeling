@@ -42,7 +42,10 @@ Wat kan er allemaal in jouw praatplaat komen te staan?
 - Wat zijn mogelijke obstakels (onderwerpen die je lastig lijken, je drukke bijbaan?)
 - Waar liggen kansen, waar heb je zin in?
 
+
 Schrijf en/of teken deze uitgangspunten op post-its.
+De onderwerpen die op jouw plaat komen te staan mogen ook los staan van de studie. 
+Gebruik daarvoor andere kleur post-its.
 
 ![Picture 1](https://user-images.githubusercontent.com/55133339/201150049-c5a5349f-7775-425f-97f6-164e830fdce3.jpg)
 
