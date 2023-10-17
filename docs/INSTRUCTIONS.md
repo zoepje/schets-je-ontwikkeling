@@ -63,7 +63,8 @@ Als je bijvoorbeeld begint met je einddoel, kan het zijn dat je al gedachten heb
 Zorg er voor dat je fases en/of tijd aangeeft. Dus je denkt zowel over de korte termijn als over de langere termijn na (waar sta ik na semester 1 en waar na semester 2).
 
 
-![2-structureren](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/969b3812-e644-465b-a9d5-2f125e81fad9)
+![2-b-structuur](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/679a0c99-f9a1-4002-af72-5370caf1a88a)
+
 
 
 
