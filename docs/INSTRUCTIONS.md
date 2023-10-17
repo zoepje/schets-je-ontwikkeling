@@ -93,11 +93,11 @@ De plaat kan je richting geven en helpen bij het maken van keuzes!
 
 Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eventueel ook in overleg met een klasgenoot doen- en werk je deze schets verder uit tot een tekening waarin je het volgende toepast:
 
-- Een titel (gebruik hiervoor de oefening die we tijdens de workshop doen).
+- Een titel (gebruik hiervoor eventueel de voorbeelden uit de workshop).
 
 - Kleur (maximaal twee en functioneel toegepast).
 
-- Hierarchie in typografie (gebruik hiervoor de oefening die we tijdens de workshop doen).
+- Hierarchie in typografie (gebruik hiervoor eventueel de voorbeelden uit de workshop).
 
 
 
@@ -113,5 +113,6 @@ Deze opdracht is done als:
 
 - Er minstens drie ideeën zijn bedacht voor de vorm van jouw praatplaat
 - Een van de praatplaten is uitgewerkt in de vorm van een metafoor
+- De praatplaat een titel heeft
 - Er duidelijk aandacht is besteed aan de tekening, lees: geen koffievlekken, gevouwen hoeken etc.
 - De praatplaat genoeg informatie bevat om een gesprek te voeren over jouw ontwikkeling.
