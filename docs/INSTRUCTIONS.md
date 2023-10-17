@@ -8,7 +8,7 @@ Maak een praatplaat waarin je jouw ontwikkeling van de afgelopen sprints en waar
 Deze deeltaak hoort bij sprint 3 All Human. 
 Dit is een deeltaak die je individueel uitvoert.
 
-In de workshop Schets je ontwikkeling  wordt uitgelegd wat visual thinking is en worden er tips gegeven!
+In de workshop Schets je ontwikkeling wordt uitgelegd wat visual thinking is en worden er tips gegeven!
 Daarna doorlopen we in elke squad de stappen.
 
 
@@ -62,7 +62,8 @@ Als je bijvoorbeeld begint met je einddoel, kan het zijn dat je al gedachten heb
 
 Zorg er voor dat je fases en/of tijd aangeeft. Dus je denkt zowel over de korte termijn als over de langere termijn na (waar sta ik na semester 1 en waar na semester 2).
 
-![2-structuur](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/bab2fc26-70fc-4ba1-82eb-8021d7c67ac1)
+
+![2-structureren](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/969b3812-e644-465b-a9d5-2f125e81fad9)
 
 
 
