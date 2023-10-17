@@ -71,9 +71,13 @@ Zorg er voor dat je fases en/of tijd aangeeft. Dus je denkt zowel over de korte 
 ### 3. Meerdere ideeën schetsen (divergeren)
 
 Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een aantal nieuwe vellen waar je een aantal ideeën (minstens drie) voor een praatplaat op tekent.
-Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoorkaarten om op ideeën te komen: hoe zie je de afgelopen periode en hoe kijk je naar de toekomst?
+Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze voorbeelden van metaforen om op ideeën te komen: hoe zie je de afgelopen periode en hoe kijk je naar de toekomst?
+
+
 
 ![Metaforen_](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/893beb3d-ed60-4666-90aa-c0caf02c9e41)
+
+
 
 
 ![Metaforen+uitleg](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/747283fc-bb50-404e-92c4-3e74b73c1f3c)
