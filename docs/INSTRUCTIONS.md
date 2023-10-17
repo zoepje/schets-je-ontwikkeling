@@ -113,6 +113,6 @@ Deze opdracht is done als:
 
 - Er minstens drie ideeën zijn bedacht voor de vorm van jouw praatplaat
 - Een van de praatplaten is uitgewerkt in de vorm van een metafoor
-- De praatplaat een titel heeft
+- De praatplaat een duidelijk leesbare titel heeft die de lading van de tekening dekt
 - Er duidelijk aandacht is besteed aan de tekening, lees: geen koffievlekken, gevouwen hoeken etc.
 - De praatplaat genoeg informatie bevat om een gesprek te voeren over jouw ontwikkeling.
