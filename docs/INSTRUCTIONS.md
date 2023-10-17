@@ -33,12 +33,13 @@ Je gebruikt de praatplaat als uitgangspunt voor een individueel gesprek met jouw
 Wat kan er allemaal in jouw praatplaat komen te staan?
 
 - Wat ging er goed?
+- Wat heb je allemaal geleerd?
+- Wat is er allemaal aangeboden? 
+- Wat kon je al?
+- Wat wil je komende tijd graag leren?
 - Voor welke indicatoren heb je echt goede bewijslast?
 - Wat ging er minder goed?
 - Voor welke indicatoren heb je minder goede bewijslast?
-- Wat wil je komende tijd graag leren?
-- Waar wil je aan het eind van semester 1 zijn?
-- Waar wil je aan het eind van semester 2 zijn?
 - Wat zijn mogelijke obstakels (onderwerpen die je lastig lijken, je drukke bijbaan?)
 - Waar liggen kansen, waar heb je zin in?
 
