@@ -73,15 +73,12 @@ Zorg er voor dat je fases en/of tijd aangeeft. Dus je denkt zowel over de korte 
 Als je een idee hebt van waar ongeveer wat moet komen te staan, pak je een aantal nieuwe vellen waar je een aantal ideeën (minstens drie) voor een praatplaat op tekent.
 Je gaat nu van een schematische vorm naar een metafoor. Bekijk eens deze metafoorkaarten om op ideeën te komen: hoe zie je de afgelopen periode en hoe kijk je naar de toekomst?
 
-<img src="https://user-images.githubusercontent.com/55133339/200644418-d5565f82-81bf-4a51-a242-9740d09f7b8f.jpg" width=40%>
-<img src="https://user-images.githubusercontent.com/55133339/200644423-e76cfb37-a7a3-44e5-9909-48583bc024a0.jpg" width=40%>
+![Metaforen_](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/893beb3d-ed60-4666-90aa-c0caf02c9e41)
 
-<img src="https://user-images.githubusercontent.com/55133339/200644426-7360eeb0-5b83-4b30-becf-78b7991c3a86.jpg" width=40%>
-<img src="https://user-images.githubusercontent.com/55133339/200644427-aa4e9afe-7d50-4d25-b19b-d960791d0201.jpg" width=40%>
 
-<img src="https://user-images.githubusercontent.com/55133339/200644436-c1af45a0-a2d2-439e-990b-13c2186c2940.jpg" width=40%>
-<img src="https://user-images.githubusercontent.com/55133339/200644442-83c4311d-fd56-44d5-b2cb-7eea89ab311a.jpg" width=40%>
-<img src="https://user-images.githubusercontent.com/55133339/200650123-ce8e0927-831f-4bef-a00b-92605576c556.jpg" width=40%>
+![Metaforen+uitleg](https://github.com/fdnd-task/schets-je-ontwikkeling/assets/55133339/747283fc-bb50-404e-92c4-3e74b73c1f3c)
+
+
 
 Bedenk dat je praatplaat geen vastgelegd plan is waar je je aan moet houden, het is een momentopname en zal gedurende het jaar steeds veranderen. 
 De plaat kan je richting geven en helpen bij het maken van keuzes!
