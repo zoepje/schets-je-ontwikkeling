@@ -111,7 +111,6 @@ Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eve
 Deze deeltaak hoort bij de volgende gedragscriteria:
 
 Probleemoplossend vermogen: Schetst om gedachten en processen te verkennen (1.4.2)
-
 Lerend vermogen: Toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze benoemen (1.5.3)
 
 Deze opdracht is done als:
