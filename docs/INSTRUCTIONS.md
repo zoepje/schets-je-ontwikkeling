@@ -97,7 +97,7 @@ Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eve
 
 - Een typo-plan. Bedenk van tevoren welke letters je gebruikt voor welke informatie.
 - Een titel 
-- Een kleuren-plan: Bedenk van tevoren welke kleuren je gebruikt voor welke informatie.
+- Een kleuren-plan: bedenk van tevoren welke kleuren je gebruikt voor welke informatie.
 - Kleur (maximaal twee en functioneel, volgens het kleuren-plan toegepast).
 - Visuele hierarchie, bijvoorbeeld in typografie (volgens het typo-plan).
 
