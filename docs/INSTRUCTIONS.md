@@ -96,7 +96,7 @@ De plaat kan je richting geven en helpen bij het maken van keuzes!
 Als je een aantal idee-schetsen hebt gemaakt, kies je er een uit -dit kan je eventueel ook in overleg met een klasgenoot doen- en werk je deze schets verder uit tot een tekening waarin je het volgende toepast:
 
 - Een typo-plan. Bedenk van tevoren welke letters je gebruikt voor welke informatie.
-- Een titel (gebruik hiervoor eventueel de voorbeelden uit de workshop).
+- Een titel 
 - Een kleuren-plan: Bedenk van tevoren welke kleuren je gebruikt voor welke informatie.
 - Kleur (maximaal twee en functioneel, volgens het kleuren-plan toegepast).
 - Visuele hierarchie, bijvoorbeeld in typografie (volgens het typo-plan).
